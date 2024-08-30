@@ -1,0 +1,344 @@
+.headd{
+    background-color: rgb(222, 74, 21);
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(26, 24, 24);
+    margin-left: 20px;
+    cursor: pointer;
+}
+.or{
+    margin-left: 250px;
+}
+.headii {
+    display: flex;
+    flex-direction: row;
+    gap: none;
+}
+.unique{
+    background-color: rgb(15, 16, 16);
+    border-radius: 2px;
+    padding: 2px;
+
+}
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+image{
+    background-size: 100px;
+    max-width: 80px;
+}
+
+.first{
+    padding: 50px;
+    background-image:url(./img/download\ \(3\).jpg) ;
+    height: 400px;
+}
+.fists{
+    padding: 20px;
+    background-color: aliceblue;
+    height: 300px;
+    
+}
+.image p{
+    
+    color: rgb(232, 232, 244);
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.image a{
+    background-color: rgb(227, 183, 153);
+    color: aliceblue;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 250px;
+}
+.imageee{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding: 10px;
+    justify-content: space-between;
+    
+}
+.imageee img{
+    height: 350px;
+    width: 350px;
+}
+.word{
+    display: flex;
+    flex-direction: column;
+}
+.imageee p{
+    padding: 20px;
+    width: 70px;
+    height: 5px;
+
+}
+.picc{
+    display: flex;
+    flex-direction: row;
+}
+.picc img{
+    height: 350px;
+    width: 350px;
+}
+.picc p{
+    background-color: rgb(238, 122, 80);
+    padding: 20px;
+    width: 70px;
+    height: 5px;
+    margin-top: 300px;
+}
+.summer{
+    color: rgb(233, 114, 71);
+    font-size: 50px;
+    max-width: 300px;
+    
+}
+.picc button{
+    background-color: #939393;
+    width: 70px;
+    height:40px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom:200px;
+}
+.word button{
+    background-color: rgb(144, 144, 141);
+    width:90px ;
+    height: 50px; 
+    margin-left:100px;
+    margin-top: 20px;
+    padding: 20px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.test{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.test p{
+    max-width: 500px;
+    text-align: center;
+    margin-left: 390px;
+    margin-right: 390px;
+    margin-top: 20px
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+}
+.area{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(236, 196, 172);
+    padding: 20px;
+
+
+}
+
+
+.form input{
+    background-color: antiquewhite;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-bottom: 1px gray;
+    width: 300px;
+}
+.contactus button{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    height: 30px;
+    background-color: grey;
+    cursor: pointer;
+}
+
+.futaa{
+    display: flex;
+    flex-direction:column ;
+    background-color:rgb(139, 113, 104);
+
+}
+.run{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.add{
+    display: flex;
+    flex-direction: row;
+    gap:30px ;
+    margin-left: 10px;
+}
+.click{
+    display:flex ;
+    flex-direction: row;
+    
+
+}
+.click p{
+    gap: 20px;
+    justify-content: space-between;
+}
+.graa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+.acruu{
+    display: flex;
+    flex-direction: row;
+    justify-content: centers;
+    margin-left: 500px;
+}
+.coma{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(76, 72, 74);
+}
+.fourtweb{
+    padding: 30px;
+}
+.top{
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-left: 290px;
+margin-right: 290px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.riiii{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+    width: 400px;
+    height: 250px;
+    gap: 30px;
+}
+.raaaa{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+    width: 300px;
+    height: 250px;
+    gap: 30px;
+
+}
+.title{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.kiii{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+}
+.right img{
+    width: 600px;
+    height: 600px;
+}
+.left{
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+    width: 50%;
+    
+}
+.left h2{
+    display: flex;
+    flex-direction: row;
+}
+.second{
+    padding: 20px;
+}
+ .ingr p{
+    display: flex;
+    flex-direction: row;
+    margin-top: none;
+
+
+ }
+ .bio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+ }
+ .bio{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+ }
+
+ .buybtn{
+    display: flex
+    ;
+    flex-direction: row;
+    gap: 5x;
+ }
+ .ooc{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.buu{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+.tii button{
+    width: 70px;
+    height: 20px;
+    cursor: pointer;
+
+}
+.momo{
+    
+   margin-left: 400px;
+   margin-right: 500px;
+}
+.ran{
+    margin-left: 490px;
+    margin-right: 400px;
+}
+.huu{
+    background-color: rgb(161, 129, 99);
+}
+
+
+
+
+

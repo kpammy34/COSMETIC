@@ -1,0 +1,20 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    border:none ;
+    outline: none;
+    padding: 10px;
+    border-bottom: 1px gray;
+    width: 300px;
+    gap: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+   
+}
+body{
+    background-image: url(./img/gg.jpg);
+}
+.grr button{
+    cursor: pointer;
+}
